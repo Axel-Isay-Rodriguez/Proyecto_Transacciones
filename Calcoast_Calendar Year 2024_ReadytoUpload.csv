@@ -1,0 +1,869 @@
+﻿Reference;Date;Description;"Amount	";Payee
+20240;01/01/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/01/24 0      4001306261     0 4121
+UBER* TRIP CIUDAD DE ME CD";$7,70 ;Uber trip
+20241;01/01/2024;"Withdrawal Card Fee
+Date 01/01/24 0      4001306261     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,07 ;Cross border fee
+20242;01/01/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 12/31/23 0      3365322338     0 4121
+UBER* TRIP CIUDAD DE ME CD";$11,54 ;Uber trip
+20243;01/01/2024;"Withdrawal Card Fee
+Date 12/31/23 0      3365322338     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,10 ;Cross border fee
+20244;01/01/2024;"Recurring Withdrawal Debit Card
+Date 01/01/24 0      4001311535     0 5968
+AMAZON PRIME*Z64S85HU3 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20245;02/01/2024;"Withdrawal Debit Card Debit Card
+$0.03-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/01/24 0      4001251152     0 4121
+UBER* TRIP CIUDAD DE ME CD";$17,15 ;Uber trip
+20246;02/01/2024;"Withdrawal Card Fee
+Date 01/01/24 0      4001251152     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,15 ;Cross border fee
+20247;03/01/2024;"Withdrawal Debit Card Debit Card
+$0.03-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/03/24 0      4003341464     0 5812
+UBER* EATS CIUDAD DE ME CD";$13,71 ;Uber Eats
+20248;03/01/2024;"Withdrawal Card Fee
+Date 01/03/24 0      4003341464     0 5812
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,12 ;Cross border fee
+20249;03/01/2024;"Credit Adjustment
+Date 01/02/24 0      4002307588     0 5815
+TWITCH SAN FRANCISC CA";$14,00 ;Twitch San Francisco 
+20250;03/01/2024;"Withdrawal Debit Card Debit Card
+$0.05-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/03/24 0      4003341466     0 5812
+UBER* EATS CIUDAD DE ME CD";$26,88 ;Uber Eats
+20251;03/01/2024;"Withdrawal Card Fee
+Date 01/03/24 0      4003341466     0 5812
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,24 ;Cross border fee
+20252;03/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/03/24 0      4003332165     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$11,31 ;AWS
+20253;03/01/2024;"Recurring Withdrawal Debit Card
+Date 01/02/24 0      4002325948     0 5734
+ADOBE *STOCK 4085366000 CA";$29,99 ;Adobe
+20254;03/01/2024;"Withdrawal Debit Card Debit Card
+$0.08-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/02/24 0      4002294594     0 5541
+BP UNIV TIJUANA BCN MX";$41,40 ;BP Univ Tijuana
+20255;03/01/2024;"Withdrawal Card Fee
+Date 01/02/24 0      4002294594     0 5541
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,37 ;Cross border fee
+20256;03/01/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/03/24 0      4003306194     0 4121
+UBER* TRIP CIUDAD DE ME CD";$11,37 ;Uber trip
+20257;03/01/2024;"Withdrawal Card Fee
+Date 01/03/24 0      4003306194     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,10 ;Cross border fee
+20258;04/01/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/02/24 0      4002314970     0 7832
+CINEMEX OTAY TIJUANA BCN BN";$9,94 ;Cinemex Otay
+20259;04/01/2024;"Withdrawal Card Fee
+Date 01/02/24 0      4002314970     0 7832
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,09 ;Cross border fee
+20260;04/01/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/02/24 0      4002314971     0 7832
+CINEMEX OTAY TIJUANA BCN BN";$11,53 ;Cinemex Otay
+20261;04/01/2024;"Withdrawal Card Fee
+Date 01/02/24 0      4002314971     0 7832
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,10 ;Cross border fee
+20262;04/01/2024;"Withdrawal Debit Card Debit Card
+$0.03-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/02/24 0      4002314972     0 7832
+CINEMEX OTAY TIJUANA BCN BN";$16,06 ;Cinemex Otay
+20263;04/01/2024;"Withdrawal Card Fee
+Date 01/02/24 0      4002314972     0 7832
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,14 ;Cross border fee
+20264;05/01/2024;"Withdrawal Bill Payment #000000828088
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20265;05/01/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$700,00 ;Transfer
+20266;08/01/2024;"Withdrawal POS #000003651257
+UBER *EATS San Francisco CA";$29,27 ;Uber Eats
+20267;11/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/10/24 0      4010103520     0 5942
+AMZN MKTP US*RT70O6FN2 AMZN.COM/BIL WA";$27,99 ;Amazon MKTP
+20268;14/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/12/24 0      4012082836     0 5542
+7-ELEVEN 32606 SAN DIEGO CA";$44,20 ;7 Eleven
+20269;15/01/2024;"Withdrawal Debit Card Debit Card
+$0.03-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/13/24 0      4013262134     0 5411
+LEY VALLE REDONDO TIJUANA BCN 00";$14,66 ; Ley Valle redondo
+20270;15/01/2024;"Withdrawal Card Fee
+Date 01/13/24 0      4013262134     0 5411
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,13 ;Cross border fee
+20271;15/01/2024;"Withdrawal Debit Card Debit Card
+$0.01-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 01/14/24 0      4014308319     0 5411
+MERPAGO*ABTSELABUELO CIUDAD DE ME MX";$7,01 ;Merpago 
+20272;15/01/2024;"Withdrawal Card Fee
+Date 01/14/24 0      4014308319     0 5411
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,06 ;Cross border fee
+20273;16/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/15/24 0      4015304778     0 5399
+PAYCLIP*ALIM Y BEBIDAS CIUDAD DE ME MX";$21,22 ;Alimentos y Bebidas
+20274;16/01/2024;"Withdrawal Card Fee
+Date 01/15/24 0      4015304778     0 5399
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,19 ;Cross border fee
+20275;18/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/16/24 0      4016272204     0 5541
+7-ELEVEN 32606 SAN DIEGO CA";$11,82 ;7 Eleven
+20276;19/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/17/24 0      4017299930     0 5541
+7-ELEVEN 32606 SAN DIEGO CA";$11,48 ;7 Eleven
+20277;20/01/2024;"Withdrawal POS #000003910043
+UBER *EATS San Francisco CA";$4,16 ;Uber Eats
+20278;20/01/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20279;20/01/2024;"Withdrawal POS #000003818585
+UBER *EATS San Francisco CA";$53,24 ;Uber Eats
+20280;21/01/2024;"Withdrawal POS #000012950733
+UBER *EATS San Francisco CA";$27,01 ;Uber Eats
+20281;21/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/18/24 0      4018233981     1 5814
+SOTO'S MEXICAN FOOD #2 SAN DIEGO CA";$47,06 ;SOTO´s Mexican Food
+20282;21/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/18/24 0      4018553206     0 5541
+7-ELEVEN 32606 SAN DIEGO CA";$12,94 ;7 Eleven
+20283;22/01/2024;"Recurring Withdrawal Debit Card
+Date 01/22/24 0      4022281929     0 5734
+ADOBE INC. 4085366000 CA";$54,99 ;Adobe
+20284;22/01/2024;"Recurring Withdrawal Debit Card
+Date 01/21/24 0      4021326115     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20285;22/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/21/24 0      4021314670     0 5812
+UBER EATS 8005928996 CA";$38,16 ;Uber Eats
+20286;23/01/2024;"Withdrawal POS #000005953007
+UBER *TRIP San Francisco CA";$17,92 ;Uber trip
+20287;24/01/2024;"Withdrawal POS #000004638306
+UBER *TRIP San Francisco CA";$9,94 ;Uber trip
+20288;26/01/2024;"Recurring Withdrawal Debit Card
+Date 01/25/24 0      4025322660     0 5734
+XERO US INV-5083440 DENVER CO";$15,00 ;Xero US
+20289;26/01/2024;"Withdrawal Debit Card Debit Card
+Date 01/24/24 0      4024321848     0 5812
+CHIROYS CAFE NATIONAL CIT CA";$26,54 ;ChiroYs Café
+20290;28/01/2024;"Recurring Withdrawal Debit Card
+Date 01/26/24 0      4026310869     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20291;31/01/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20292;01/02/2024;"Recurring Withdrawal Debit Card
+Date 02/01/24 0      4032323836     0 5968
+AMAZON PRIME*R26O62AQ2 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20293;04/02/2024;"Withdrawal Debit Card Debit Card
+Date 02/02/24 0      4033347996     1 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$11,18 ;aws 
+20294;06/02/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20295;07/02/2024;"Withdrawal Bill Payment #000000306239
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20296;08/02/2024;"Recurring Withdrawal Debit Card
+Date 02/07/24 0      4038336427     0 5734
+ADOBE INC. 4085366000 CA";$29,99 ;Adobe
+20297;20/02/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$700,00 ;Transfer
+20298;21/02/2024;"Recurring Withdrawal Debit Card
+Date 02/20/24 0      4051303449     0 5734
+ADOBE INC. 4085366000 CA";$54,99 ;Adobe
+20299;21/02/2024;"Withdrawal Debit Card Debit Card
+Date 02/21/24 0      4052342913     0 7399
+UPWORK -668674910REF UPWORK.COM/B CA";$65,95 ;Upwork
+20300;22/02/2024;"Recurring Withdrawal Debit Card
+Date 02/21/24 0      4052338614     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20301;25/02/2024;"Recurring Withdrawal Debit Card
+Date 02/23/24 0      4054327710     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20302;25/02/2024;"Recurring Withdrawal Debit Card
+Date 02/23/24 0      4054301857     0 4816
+DNH*GODADDY.COM TEMPE AZ";$44,53 ;DN GODADDY
+20303;25/02/2024;"Withdrawal Debit Card Debit Card
+Date 02/24/24 0      4055331422     1 7399
+UPWORK -669299819REF UPWORK.COM/B CA";$55,45 ;Upwork
+20304;25/02/2024;"Withdrawal Debit Card Debit Card
+Date 02/24/24 0      4055326889     0 7399
+UPWORK -669328288REF UPWORK.COM/B CA";$52,50 ;Upwork
+20305;25/02/2024;"Recurring Withdrawal Debit Card
+Date 02/25/24 0      4056340207     0 5734
+XERO US INV-5152274 DENVER CO";$15,00 ;Xero US
+20306;26/02/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$200,00 ;Transfer
+20307;27/02/2024;"Credit Adjustment
+Date 02/26/24 0      4057288664     0 7399
+UPWORK -669328288REF UPWORK.COM/B CA";$52,50 ;Upwork
+20308;27/02/2024;"Credit Adjustment
+Date 02/26/24 0      4057288663     0 7399
+UPWORK -669299819REF UPWORK.COM/B CA";$55,45 ;Upwork
+20309;29/02/2024;"Recurring Withdrawal Debit Card
+Date 02/29/24 0      4060335775     0 7399
+UPWORK -671183391REF UPWORK.COM/B CA";$5,25 ;Upwork
+20310;29/02/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20311;01/03/2024;"Withdrawal Bill Payment #000000829761
+DNH*GODADDY.COM TEMPE AZ";$227,88 ;DN GODADDY
+20312;01/03/2024;"Recurring Withdrawal Debit Card
+Date 03/01/24 0      4061408133     0 5968
+AMAZON PRIME*RN60W0NQ0 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20313;01/03/2024;"Recurring Withdrawal Debit Card
+Date 03/01/24 0      4061408317     0 5968
+NORTON *AP297744459 NORTON.COM/C AZ";$119,99 ;norton
+20314;03/03/2024;"Recurring Withdrawal Debit Card
+Date 03/03/24 0      4063327522     0 5734
+ADOBE INC. 4085366000 CA";$29,99 ;Adobe
+20315;03/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/02/24 0      4062197403     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$10,49 ;Aws
+20316;05/03/2024;"Withdrawal Bill Payment #000000018771
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20317;07/03/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20318;08/03/2024;"Recurring Withdrawal Debit Card
+Date 03/07/24 0      4067357280     0 8111
+LEGALZOOM* REGIST AGEN GLENDALE CA";$299,00 ;Legal Zoom
+20319;13/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/13/24 0      4073366830     0 7399
+UPWORK -675527623REF UPWORK.COM/B CA";$29,20 ;Upwork
+20320;13/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/13/24 0      4073350152     0 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$94,95 ;Udemy
+20321;21/03/2024;"Recurring Withdrawal Debit Card
+Date 03/20/24 0      4080320116     0 5734
+ADOBE *ADOBE 4085366000 CA";$54,99 ;Adobe
+20322;22/03/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$800,00 ;Transfer
+20323;22/03/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$50,00 ;Transfer
+20324;24/03/2024;"Recurring Withdrawal Debit Card
+Date 03/22/24 0      4082324036     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20325;24/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/22/24 0      4082326755     1 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20326;24/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/22/24 0      4082307126     1 7399
+UPWORK -678390071REF UPWORK.COM/B CA";$26,25 ;Upwork
+20327;24/03/2024;"Withdrawal Debit Card Debit Card
+Date 03/22/24 0      4082428438     0 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$46,97 ;Udemy
+20328;26/03/2024;"Recurring Withdrawal Debit Card
+Date 03/25/24 0      4085339089     0 5734
+XERO US INV-5222505 DENVER CO";$15,00 ;Xero US
+20329;30/03/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$700,00 ;Transfer
+20330;31/03/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20331;01/04/2024;"Recurring Withdrawal Debit Card
+Date 04/01/24 0      4092312373     0 5968
+AMAZON PRIME*RA3777HM1 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20332;03/04/2024;"Recurring Withdrawal Debit Card
+Date 04/02/24 0      4093294322     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20333;03/04/2024;"Withdrawal Debit Card Debit Card
+Date 04/03/24 0      4094377551     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$11,31 ;Aws
+20334;05/04/2024;"Withdrawal Bill Payment #000000654955
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20335;05/04/2024;Deposit;$3.000,00 ;Deposit
+20336;14/04/2024;"Withdrawal Debit Card Debit Card
+Date 04/13/24 0      4104245199     2 8931
+AFP*TAE H KIM CPA MURRIETA CA";$800,00 ;AFP
+20337;15/04/2024;Deposit;$4.000,00 ;Deposit
+20338;21/04/2024;"Recurring Withdrawal Debit Card
+Date 04/19/24 0      4110367433     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20339;21/04/2024;"Withdrawal Debit Card Debit Card
+Date 04/19/24 0      4110436306     1 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$46,97 ;Udemy
+20340;21/04/2024;"Recurring Withdrawal Debit Card
+Date 04/20/24 0      4111351711     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20341;21/04/2024;"Withdrawal Debit Card Debit Card
+Date 04/19/24 0      4110436307     1 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$26,98 ;Udemy
+20342;21/04/2024;"Recurring Withdrawal Debit Card
+Date 04/20/24 0      4111339826     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20343;22/04/2024;"Withdrawal ACH MARRIOTT MVC
+%% ACH Trace 043000262031021
+%% ACH ECC TEL
+CO: MARRIOTT MVC
+TYPE: MTG PYMT  ID: 3000000300";$3.950,60 ;Marriot
+20344;25/04/2024;"Recurring Withdrawal Debit Card
+Date 04/25/24 0      4116385373     0 5734
+XERO US INV-5293646 DENVER CO";$15,00 ;Xero US
+20345;27/04/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Deposit
+20346;01/05/2024;"Recurring Withdrawal Debit Card
+Date 05/01/24 0      4122419607     0 5968
+AMAZON PRIME*6F4GD8E83 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20347;03/05/2024;"Withdrawal Debit Card Debit Card
+Date 05/03/24 0      4124502436     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$11,05 ;AWS
+20348;03/05/2024;"Recurring Withdrawal Debit Card
+Date 05/02/24 0      4123298126     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20349;05/05/2024;"Recurring Withdrawal Bill Payment
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20350;14/05/2024;"Withdrawal ACH MARRIOTT MVC
+%% ACH Trace 043000263143493
+%% ACH ECC WEB
+CO: MARRIOTT MVC  NAME: LUIS E CASILLAS
+TYPE: MTG PYMT  ID: 3000000300";$633,34 ;Marriot
+20351;19/05/2024;"Recurring Withdrawal Debit Card
+Date 05/17/24 0      4138365178     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20352;19/05/2024;"Withdrawal Debit Card Debit Card
+Date 05/17/24 0      4138505332     1 5943
+STAPLES 00102665 SAN DIEGO CA";$54,24 ;Staples
+20353;21/05/2024;"Recurring Withdrawal Debit Card
+Date 05/20/24 0      4141294121     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20354;21/05/2024;"Recurring Withdrawal Debit Card
+Date 05/20/24 0      4141344243     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20355;26/05/2024;"Recurring Withdrawal Debit Card
+Date 05/25/24 0      4146546698     1 5734
+XERO US INV-5364842 DENVER CO";$15,00 ;Xero US
+20356;29/05/2024;"Withdrawal POS #000003922796
+UBER *EATS San Francisco CA";$45,73 ;Uber Eats
+20357;30/05/2024;"Withdrawal Debit Card Debit Card
+Date 05/29/24 0      4150430273     0 4812
+VERIZON VICTRA CA SNDG SAN DIEGO CA";$453,97 ;verizon
+20358;31/05/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20359;01/06/2024;"Withdrawal POS #000021047135
+CENTER ROA SAN DIEGO CA
+NST BEST BUY #438 001302 5151 MISSION";$64,64 ;Best Buy
+20360;01/06/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20361;02/06/2024;"Recurring Withdrawal Debit Card
+Date 06/01/24 0      4153660370     2 5968
+AMAZON PRIME*1Y12900N3 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20362;02/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/01/24 0      4153673638     2 4722
+AIRBNB * HMRQF22DE4 SAN FRANCISC CA";$76,76 ;Airbnb
+20363;03/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/02/24 0      4154567184     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$12,90 ;Aws
+20364;03/06/2024;"Recurring Withdrawal Debit Card
+Date 06/02/24 0      4154552980     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20365;04/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/04/24 0      4156422019     0 5818
+AMAZON PRIME*4J42A9Z73 888-802-3080 WA";$3,79 ;Amazon Prime
+20366;04/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/03/24 0      4155126245     0 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$84,95 ;Udemy
+20367;04/06/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G049091737 REDMOND WA";$33,75 ;Microsoft
+20368;05/06/2024;"Recurring Withdrawal Bill Payment
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20369;05/06/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20370;05/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/04/24 0      4156217673     0 4722
+AIRBNB * HM3WFWNW4W SAN FRANCISC CA";$60,45 ;Airbnb
+20371;05/06/2024;"Withdrawal Debit Card Debit Card
+$0.04-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 06/04/24 0      4156364824     0 5812
+UBER* EATS CIUDAD DE ME CD";$20,23 ;Uber Eats
+20372;05/06/2024;"Withdrawal Card Fee
+Date 06/04/24 0      4156364824     0 5812
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,18 ;Cross border fee
+20373;07/06/2024;"Deposit Home Banking Transfer
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20374;09/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/08/24 0      4160551527     1 5818
+GOOGLE *UDEMY INC 855-836-3987 CA";$29,99 ;Udemy
+20375;09/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/08/24 0      4160566931     1 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$68,96 ;Udemy
+20376;11/06/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20377;12/06/2024;"Withdrawal ACH MARRIOTT MVC
+%% ACH Trace 043000267412925
+%% ACH ECC WEB
+CO: MARRIOTT MVC  NAME: LUIS E CASILLAS
+TYPE: MTG PYMT  ID: 3000000300";$633,34 ;Marriot
+20378;15/06/2024;"Withdrawal POS #000001737924
+UBER *TRIP San Francisco CA";$16,77 ;Uber trip
+20379;16/06/2024;"Recurring Withdrawal Debit Card
+Date 06/14/24 0      4166324600     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20380;17/06/2024;"Withdrawal at ATM #000000007364
+SCHOOLSFIRST 7014/47 W NUEVO RD PERRIS CA";$100,00 ;School first
+20381;20/06/2024;"Withdrawal at ATM #000000008584
+CALCOAST 8623 SPCTRMCTRBLVD SAN DIEGO CA";$100,00 ;Calcoast
+20382;21/06/2024;"Recurring Withdrawal Debit Card
+Date 06/20/24 0      4172379429     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20383;21/06/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20384;23/06/2024;"Recurring Withdrawal Debit Card
+Date 06/21/24 0      4173440438     1 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20385;23/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/22/24 0      4174390460     0 8111
+LEGALZOOM* BUSINESS GLENDALE CA";$99,00 ;Legal Zoom
+20386;23/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/22/24 0      4174441402     1 5411
+IC* INSTACART SAN FRANCISC CA";$3,00 ;IC InstaCart
+20387;23/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/22/24 0      4174441401     1 5411
+IC* INSTACART SAN FRANCISC CA";$139,59 ;IC InstaCart
+20388;23/06/2024;"Recurring Withdrawal Debit Card
+Date 06/22/24 0      4174390462     0 8111
+LZC* LEGALZOOM.COM GLENDALE CA";$184,66 ;Legal Zoom
+20389;25/06/2024;"Recurring Withdrawal Debit Card
+Date 06/25/24 0      4177411649     0 5734
+XERO US INV-5436949 DENVER CO";$15,00 ;Xero US
+20390;26/06/2024;"Deposit Home Banking Transfer
+Owner Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$600,00 ;Transfer
+20391;28/06/2024;"Withdrawal Debit Card Debit Card
+Date 06/28/24 0      4180345772     0 8299
+UDEMY: ONLINE COURSES SAN FRANCISC CA";$88,93 ;Udemy
+20392;30/06/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20393;01/07/2024;"Recurring Withdrawal Debit Card
+Date 07/01/24 0      4183398392     0 5968
+AMAZON PRIME*R74G48J00 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20394;03/07/2024;"Withdrawal at ATM #000000008833
+CALCOAST 8623 SPCTRMCTRBLVD SAN DIEGO CA";$100,00 ;Calcoast
+20395;03/07/2024;"Withdrawal Debit Card Debit Card
+Date 07/02/24 0      4184368414     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$26,47 ;Aws
+20396;03/07/2024;"Recurring Withdrawal Debit Card
+Date 07/02/24 0      4184359375     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20397;05/07/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G051541087 REDMOND WA";$33,75 ;Mi
+20398;05/07/2024;"Recurring Withdrawal Bill Payment
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$21,99 ;ABC Crunch
+20399;05/07/2024;"Deposit Home Banking Transfer
+- Cal Coast Mobile
+From CASILLAS,LUIS E XXXX5744 Share 10";$400,00 ;Transfer
+20400;05/07/2024;"Withdrawal Debit Card Debit Card
+Date 07/03/24 0      4185333163     0 4812
+VERIZON WRLS 29672-01 SAN DIEGO CA";$148,71 ;verizon
+20401;08/07/2024;"Withdrawal Debit Card Debit Card
+Date 07/07/24 0      4189351196     0 5411
+IC* INSTACART SAN FRANCISC CA";$83,51 ;IC InstaCart
+20402;10/07/2024;"Withdrawal Home Banking Transfer
+- Cal Coast Mobile
+To CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20403;11/07/2024;"Withdrawal Overdrawn ACH
+%% ACH ECC WEB
+MARRIOTT MVC";$27,00 ;Marriot
+20404;14/07/2024;"Recurring Withdrawal Debit Card
+Date 07/12/24 0      4194319442     0 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20405;14/07/2024;"Recurring Withdrawal Debit Card
+Date 07/13/24 0      4195151447     2 4814
+VZWRLSS*APOCC VISB 800-922-0204 FL";$153,90 ;VZWRLSS
+20406;21/07/2024;"Recurring Withdrawal Debit Card
+Date 07/20/24 0      4202234795     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20407;22/07/2024;"Deposit at ATM #000000002469
+CALCOAST 30015 HAUN RD MENIFEE CA";$1.000,00 ;Calcoast
+20408;25/07/2024;"Recurring Withdrawal Debit Card
+Date 07/25/24 0      4207483770     0 5734
+XERO US INV-5508939 DENVER CO";$15,00 ;Xero US
+20409;28/07/2024;"Withdrawal Debit Card Debit Card
+Date 07/27/24 0      4209335305     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$678,54 ;Regus Management
+20410;31/07/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20411;01/08/2024;"Recurring Withdrawal Debit Card
+Date 08/01/24 0      4214463064     0 5968
+AMAZON PRIME*RV92F3W80 AMZN.COM/BIL WA";$16,15 ;Amazon 
+20412;04/08/2024;"Withdrawal Debit Card Debit Card
+Date 08/02/24 0      4215091608     3 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$51,90 ;AWS
+20413;04/08/2024;"Withdrawal Debit Card Debit Card
+Date 08/02/24 0      4215057051     0 4814
+VZWRLSS*IVR VB ALPHARETTA GA";$215,91 ;VZWRLSS
+20414;04/08/2024;"Recurring Withdrawal Debit Card
+Date 08/02/24 0      4215081156     3 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20415;04/08/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G054132489 REDMOND WA";$33,75 ;Microsoft
+20416;07/08/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$2.000,00 ;Deposit
+20417;09/08/2024;"Recurring Withdrawal Bill Payment
+DIEGO CA
+ABC*CRUNCH ABC*7619-CRUNCH FITNES SAN";$36,99 ;ABC Crunch
+20418;09/08/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20419;11/08/2024;"Recurring Withdrawal Debit Card
+Date 08/09/24 0      4222124221     1 7299
+RECOVERME 530-2635241 CA";$44,50 ;Recoverme 
+20420;16/08/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20421;21/08/2024;"Recurring Withdrawal Debit Card
+Date 08/21/24 0      4234380026     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$58,93 ;Regus Management
+20422;21/08/2024;"Recurring Withdrawal Debit Card
+Date 08/20/24 0      4233267566     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20423;21/08/2024;"Recurring Withdrawal Debit Card
+Date 08/21/24 0      4234380025     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$37,72 ;Regus Management
+20424;25/08/2024;"Recurring Withdrawal Debit Card
+Date 08/25/24 0      4238418300     0 5734
+XERO US INV-5581952 DENVER CO";$15,00 ;Xero US
+20425;27/08/2024;"Withdrawal Debit Card Debit Card
+Date 08/26/24 0      4239368514     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$838,90 ;Regus Management
+20426;30/08/2024;"Withdrawal POS #000000144704
+7-ELEVEN 9609 Aero Dr US San Diego CA";$40,00 ;7 Eleven
+20427;30/08/2024;"Withdrawal POS #000011005109
+UBER *TRIP San Francisco CA";$127,84 ;Uber trip
+20428;31/08/2024;"Withdrawal POS #000000126464
+7-ELEVEN 9609 Aero Dr US San Diego CA";$45,00 ;7 Eleven
+20429;31/08/2024;"Withdrawal Debit Card Debit Card
+Date 08/30/24 0      4243467389     0 7513
+U-HAUL MORENO VALLEY MORENO VALLE CA";$429,67 ;U Haul
+20430;31/08/2024;"Withdrawal POS #000017644207
+CIRCLE K 09455 PERRIS PERRIS CA";$50,00 ;CircleK
+20431;31/08/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20432;02/09/2024;"Withdrawal POS #000004380393
+UBER * PENDING San Francisco CA";$33,29 ;Uber
+20433;02/09/2024;"Recurring Withdrawal Debit Card
+Date 09/01/24 0      4245588465     1 5968
+AMAZON PRIME*RK9OK7800 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20434;02/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/01/24 0      4245451147     1 4722
+AIRBNB * HMZTXA84W9 SAN FRANCISC CA";$76,62 ;Airbnb
+20435;02/09/2024;"Withdrawal Debit Card Debit Card
+Date 08/30/24 0      4243450303     1 4784
+SANDAG FASTRAK SAN DIEGO CA";$7,00 ;Sandag
+20436;02/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/01/24 0      4245374950     0 7513
+U-HAUL CHULA VISTA CHULA VISTA CA";$552,01 ;Uhaul
+20437;03/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/02/24 0      4246314780     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$51,95 ;AWS
+20438;03/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/02/24 0      4246124536     0 4722
+AIRBNB * HMB2S5XS53 SAN FRANCISC CA";$182,58 ;Airbnb
+20439;03/09/2024;"Recurring Withdrawal Debit Card
+Date 09/02/24 0      4246377986     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20440;04/09/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G057716950 REDMOND WA";$33,75 ;Microsoft
+20441;08/09/2024;"Withdrawal POS #000001236076
+UBER * PENDING San Francisco CA";$39,10 ;Uber
+20442;11/09/2024;"Withdrawal Debit Card Debit Card
+$0.61-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 09/10/24 0      4254417048     0 3076
+AEROMEX TIEN VI CIUDAD DE ME MX";$306,24 ;Aero Mex
+20443;11/09/2024;"Withdrawal Card Fee
+Date 09/10/24 0      4254417048     0 3076
+MASTERCARD ISSUER CROSS-BORDER FEE";$2,75 ;Cross border fee
+20444;12/09/2024;"Withdrawal Debit Card Debit Card
+$0.04-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 09/10/24 0      4254345063     0 4722
+FOB TIJUANA BCN BN";$17,63 ;Conversion Fee
+20445;12/09/2024;"Withdrawal Card Fee
+Date 09/10/24 0      4254345063     0 4722
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,16 ;Cross border fee
+20446;12/09/2024;"Withdrawal Debit Card Debit Card
+$0.73-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 09/11/24 0      4255354764     0 3393
+NATIONAL CDMX CIUDAD DE ME MX";$365,75 ;Conversion Fee
+20447;12/09/2024;"Withdrawal Card Fee
+Date 09/11/24 0      4255354764     0 3393
+MASTERCARD ISSUER CROSS-BORDER FEE";$3,29 ;Cross border fee
+20448;13/09/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20449;16/09/2024;"Recurring Withdrawal Debit Card
+Date 09/16/24 0      4260327581     0 4814
+VZWRLSS*APOCC VISB 800-922-0204 FL";$148,96 ;VZWRLSS
+20450;20/09/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20451;23/09/2024;"Recurring Withdrawal Debit Card
+Date 09/20/24 0      4264535816     1 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20452;23/09/2024;"Recurring Withdrawal Debit Card
+Date 09/21/24 0      4265364840     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$66,95 ;Regus Management
+20453;23/09/2024;"Recurring Withdrawal Debit Card
+Date 09/21/24 0      4265364839     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$466,00 ;Regus Management
+20454;25/09/2024;"Recurring Withdrawal Debit Card
+Date 09/25/24 0      4269452749     0 5734
+XERO US INV-5655420 DENVER CO";$15,00 ;Xero US
+20455;27/09/2024;"Deposit Transfer
+OWNER'S CONTRIBUTION
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20456;27/09/2024;"Deposit Home Banking Transfer
+- Cal Coast Mobile
+From CASILLAS,LUIS E XXXX5744 Share 10";$300,00 ;Transfer
+20457;27/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/26/24 0      4270315912     0 4722
+AIRBNB * HMJF2XT5J8 SAN FRANCISC CA";$143,33 ;Airbnb
+20458;29/09/2024;"Withdrawal Debit Card Debit Card
+$0.01-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 09/28/24 0      4272364616     0 4121
+UBER* TRIP CIUDAD DE ME CD";$5,31 ;Uber trip
+20459;29/09/2024;"Withdrawal Card Fee
+Date 09/28/24 0      4272364616     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,05 ;Cross border fee
+20460;29/09/2024;"Recurring Withdrawal Debit Card
+Date 09/29/24 0      4273364633     0 4121
+UBER* TRIP CIUDAD DE ME CD";$0,51 ;Uber trip
+20461;29/09/2024;"Withdrawal Debit Card Debit Card
+$0.02-
+MASTERCARD CURRENCY CONVERSION FEE :
+Date 09/28/24 0      4272125371     0 4121
+UBER* TRIP CIUDAD DE ME CD";$7,74 ;Uber trip
+20462;29/09/2024;"Withdrawal Card Fee
+Date 09/28/24 0      4272125371     0 4121
+MASTERCARD ISSUER CROSS-BORDER FEE";$0,07 ;Cross border fee
+20463;29/09/2024;"Withdrawal Debit Card Debit Card
+Date 09/27/24 0      4271490765     1 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$911,61 ;Regus Management
+20464;30/09/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20465;01/10/2024;"Recurring Withdrawal Debit Card
+Date 10/01/24 0      4275438916     0 5968
+AMAZON PRIME*2Y0484543 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20466;03/10/2024;"Withdrawal Debit Card Debit Card
+Date 10/02/24 0      4276360933     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$50,30 ;AWS
+20467;03/10/2024;"Recurring Withdrawal Debit Card
+Date 10/02/24 0      4276376135     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20468;03/10/2024;"Recurring Withdrawal Debit Card
+Date 10/02/24 0      4276424571     0 8299
+ILEARNTOBOAT.COM RICHARDSON TX";$59,95 ;Ilearnto boat
+20469;04/10/2024;"Recurring Withdrawal Bill Payment
+TEMPE AZ
+DNH*GODADDY.COM DNH*GODADDY#3333771235";$239,88 ;DN GODADDY
+20470;05/10/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G060577509 REDMOND WA";$33,75 ;Microsoft
+20471;06/10/2024;"Withdrawal Debit Card Debit Card
+Date 10/04/24 0      4278756395     3 9399
+BOATING AND WATERWAYS SACRAMENTO CA";$10,00 ;Boating and waterways
+20472;08/10/2024;"Withdrawal Debit Card Debit Card
+Date 10/08/24 0      4282444955     0 7361
+UPWORK * -741373425 8662624478 CA";$25,99 ;Upwork
+20473;11/10/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$500,00 ;Transfer
+20474;11/10/2024;"Withdrawal POS #000004137667
+GOOGLE *Play Mountain View CA";$25,00 ;Google Play
+20475;13/10/2024;"Recurring Withdrawal Bill Payment
+TEMPE AZ
+DNH*GODADDY.COM DNH*GODADDY#3350080057";$95,88 ;DN GODADDY
+20476;14/10/2024;"Recurring Withdrawal Debit Card
+Date 10/13/24 0      4287384853     0 4814
+VZWRLSS*APOCC VISB 800-922-0204 FL";$149,03 ;VZWRLSS
+20477;21/10/2024;"Recurring Withdrawal Debit Card
+Date 10/20/24 0      4294405702     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20478;22/10/2024;"Recurring Withdrawal Debit Card
+Date 10/22/24 0      4296366259     0 5817
+ELEMENTOR WILMINGTON DE";$99,00 ;Elementor
+20479;25/10/2024;"Deposit Home Banking Transfer
+- Cal Coast Mobile
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20480;25/10/2024;"Recurring Withdrawal Debit Card
+Date 10/24/24 0      4298384855     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$70,58 ;Regus Management
+20481;26/10/2024;"Deposit Home Banking Transfer
+Owners Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$400,00 ;Transfer
+20482;29/10/2024;"Recurring Withdrawal Debit Card
+Date 10/28/24 0      4302361394     0 7372
+FONT AWESOME PRO BENTONVILLE AR";$99,00 ;Font Awesome
+20483;29/10/2024;"Withdrawal Debit Card Debit Card
+Date 10/28/24 0      4302356325     0 6513
+REGUS MANAGEMENT GROUP ADDISON TX";$1.184,50 ;Regus Management
+20484;30/10/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$2.000,00 ;Transfer
+20485;30/10/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$3.000,00 ;Transfer
+20486;31/10/2024;Withdrawal Service Fee;$8,00 ;Services fee
+20487;01/11/2024;"Recurring Withdrawal Debit Card
+Date 11/01/24 0      4306458567     0 5734
+XERO US INV-5730534 DENVER CO";$15,00 ;Xero US
+20488;01/11/2024;"Recurring Withdrawal Debit Card
+Date 11/01/24 0      4306443738     0 5968
+AMAZON PRIME*1L7IS81V3 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20489;02/11/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G063522186 REDMOND WA";$540,00 ;Microsoft
+20490;02/11/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20491;03/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/02/24 0      4307377232     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$44,04 ;Aws
+20492;03/11/2024;"Recurring Withdrawal Debit Card
+Date 11/02/24 0      4307394983     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20493;03/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/01/24 0      4306656422     1 4829
+FELIX PAGO SAN FRANCISC CA";$620,00 ;Felix Pago
+20494;05/11/2024;"Recurring Withdrawal Bill Payment
+MICROSOFT#G064270429 REDMOND WA";$55,52 ;Microsoft
+20495;05/11/2024;"Recurring Withdrawal Debit Card
+Date 11/04/24 0      4309378017     0 8111
+LEGALZOOM* REGIST AGEN MOUNTAIN VIE CA";$299,00 ;Legal Zoom
+20496;05/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/04/24 0      4309380599     0 5734
+GRAMMARLY CO*VW0UYDF SAN FRANCISC CA";$144,00 ;Grammarly
+20497;13/11/2024;"Recurring Withdrawal Debit Card
+Date 11/13/24 0      4318484534     0 4814
+VZWRLSS*APOCC VISB 800-922-0204 FL";$149,06 ;VZWRLSS
+20498;13/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/13/24 0      4318507042     0 7361
+UPWORK * -752384578 8662624478 CA";$62,74 ;Upwork
+20499;13/11/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$2.000,00 ;Transfer
+20500;17/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/16/24 0      4321263294     1 4722
+AIRBNB * HM9KZ4TH2T SAN FRANCISC CA";$120,82 ;Airbnb
+20501;17/11/2024;"Credit Adjustment
+Date 11/16/24 0      4321376121     0 4722
+AIRBNB * HM9KZ4TH2T SAN FRANCISC CA";$120,82 ;Airbnb
+20502;19/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/19/24 0      4324429766     0 7361
+UPWORK * -754385858 8662624478 CA";$31,50 ;Upwork
+20503;19/11/2024;"Recurring Withdrawal Debit Card
+Date 11/19/24 0      4324373500     0 7399
+UPWORK -754372291REF UPWORK.COM/B CA";$20,74 ;Upwork
+20504;19/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/19/24 0      4324429765     0 7361
+UPWORK * -754373004 8662624478 CA";$21,00 ;Upwork
+20505;20/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/19/24 0      4324403444     0 7361
+UPWORK * -754532535 8662624478 CA";$57,49 ;Upwork
+20506;20/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/19/24 0      4324403445     0 7361
+UPWORK * -754532842 8662624478 CA";$21,00 ;Upwork
+20507;21/11/2024;"Recurring Withdrawal Debit Card
+Date 11/20/24 0      4325425233     0 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20508;21/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/21/24 0      4326457242     0 7361
+UPWORK * -754781202 8662624478 CA";$15,49 ;Upwork
+20509;21/11/2024;"Withdrawal Debit Card Debit Card
+Date 11/21/24 0      4326457243     0 7361
+UPWORK * -754781354 8662624478 CA";$21,00 ;Upwork
+20510;22/11/2024;"Recurring Withdrawal Debit Card
+Date 11/21/24 0      4326392801     0 6513
+REGUS MANAGEMENT GROU ADDISON TX";$874,16 ;Regus Management
+20511;25/11/2024;"Recurring Withdrawal Debit Card
+Date 11/25/24 0      4330348826     0 5734
+XERO US INV-5806339 DENVER CO";$15,00 ;Xero US
+20512;25/11/2024;"Deposit Home Banking Transfer
+Owner's Contribution
+From CASILLAS,LUIS E XXXX5744 Share 10";$800,00 ;Transfer
+20513;29/11/2024;"Withdrawal ACH MARRIOTT MVC
+%% ACH Trace 043000266515613
+%% ACH ECC WEB
+CO: MARRIOTT MVC  NAME: LUIS E CASILLAS
+TYPE: MTG PYMT  ID: 3000000300";$633,34 ;Marriot
+20514;02/12/2024;"Recurring Withdrawal Debit Card
+Date 12/01/24 0      4336760933     1 5968
+AMAZON PRIME*ZL61U0FP2 AMZN.COM/BIL WA";$16,15 ;Amazon Prime
+20515;02/12/2024;"Withdrawal Debit Card Debit Card
+Date 12/01/24 0      4336411970     0 7361
+UPWORK * -757443985 8662624478 CA";$12,60 ;Upwork
+20516;03/12/2024;"Recurring Withdrawal Debit Card
+Date 12/02/24 0      4337366281     0 5734
+ADOBE *ADOBE 4085366000 CA";$29,99 ;Adobe
+20517;03/12/2024;"Withdrawal Debit Card Debit Card
+Date 12/03/24 0      4338614500     0 7399
+AMAZON WEB SERVICES AWS.AMAZON.C WA";$12,44 ;Aws
+20518;03/12/2024;"Withdrawal Debit Card Debit Card
+Date 12/02/24 0      4337639109     0 7361
+UPWORK * -758566894 8662624478 CA";$4,20 ;Upwork
+20519;05/12/2024;"Withdrawal Bill Payment #000000313112
+MICROSOFT#G068377274 REDMOND WA";$67,50 ;Microsoft
+20520;09/12/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20521;15/12/2024;"Recurring Withdrawal Debit Card
+Date 12/13/24 0      4348658150     1 4814
+VZWRLSS*APOCC VISB 800-922-0204 FL";$149,06 ;VZWRLSS
+20522;18/12/2024;"Withdrawal Debit Card Debit Card
+Date 12/17/24 0      4352375001     0 7361
+UPWORK * -763036334 8662624478 CA";$12,60 ;Upwork
+20523;18/12/2024;"Withdrawal Debit Card Debit Card
+Date 12/17/24 0      4352156788     0 7216
+TIDE DRY CLEANERS - NO SARASOTA FL";$18,36 ;Tide Dry Cleaners
+20524;21/12/2024;"Deposit Home Banking Transfer
+Owners Contributions
+From CASILLAS,LUIS E XXXX5744 Share 10";$1.000,00 ;Transfer
+20525;22/12/2024;"Withdrawal POS #000050626396
+WAWA 5224 SARASOTA SARASOTA FL";$19,75 ;WAWA
+20526;22/12/2024;"Withdrawal POS #000017114988
+OAKLAND PARK FL
+SPEEDWAY 5002 N DIXIE 5002 N DIXIE HWY";$19,47 ;SPEEDway
+20527;22/12/2024;"Recurring Withdrawal Debit Card
+Date 12/20/24 0      4355819343     1 5734
+ADOBE *ADOBE 4085366000 CA";$59,99 ;Adobe
+20528;23/12/2024;"Recurring Withdrawal Debit Card
+Date 12/22/24 0      4357405384     0 6513
+REGUS MANAGEMENT GROU ADDISON TX";$466,00 ;Regus Management
+20529;23/12/2024;"Recurring Withdrawal Debit Card
+Date 12/22/24 0      4357405385     0 6513
+REGUS MANAGEMENT GROU ADDISON TX";$882,00 ;Regus Management
+20530;24/12/2024;"Withdrawal POS #000013200059
+Bradenton FL
+Speedway 6706 14th St 6706 14th St W";$0,01 ;SPEEDway
+20531;25/12/2024;"Recurring Withdrawal Debit Card
+Date 12/25/24 0      4360374436     0 5734
+XERO US INV-5882986 DENVER CO";$20,00 ;Xero US
