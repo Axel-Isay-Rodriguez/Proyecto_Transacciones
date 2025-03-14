@@ -20,7 +20,7 @@ def map_payee(description):
 # Leer el archivo CSV, saltando las primeras 7 líneas (6 de metadatos + 1 en blanco)
 try:
     transactions_df = pd.read_csv(
-        'Calcoast_Calendar Year 2024 Transactions_Example (1).csv',
+        'Calcoast_Calendar Year 2024 Transactions_Raw.csv',
         delimiter=',',  # Cambia esto si el delimitador no es una coma
         skiprows=7,  # Saltar las primeras 7 líneas
         engine='python'  # Usar el motor de Python para manejar errores
@@ -30,7 +30,7 @@ except pd.errors.ParserError as e:
     print("Intentando leer el archivo como texto y limpiarlo...")
     
     # Leer el archivo como texto
-    with open('Calcoast_Calendar Year 2024 Transactions_Example (1).csv', 'r', encoding='utf-8') as file:
+    with open('Calcoast_Calendar Year 2024 Transactions_Raw.csv', 'r', encoding='utf-8') as file:
         lines = file.readlines()
     
     # Saltar las primeras 7 líneas (6 de metadatos + 1 en blanco)
